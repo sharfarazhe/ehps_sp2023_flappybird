@@ -8,5 +8,5 @@ https://drive.google.com/file/d/11wta8vw5aUMNe5hH0bhVLJCaNkpL6ZHB/view?usp=shari
 
 # Install instruction:
 - download the installer
-- installation stores program into default path: C:\Users\ <username>\AppData\Local\Programs\EssexH Flappy Bird\
+- installation stores program into default path: C:\Users\username\AppData\Local\Programs\EssexH Flappy Bird\
 - navigate to the folder and execute application file "Flappy-Birds-project.exe"
